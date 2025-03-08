@@ -37,12 +37,12 @@ Este projeto apresenta uma dissertação breve e informativa sobre as facilidade
 
 🚀 Resultados
 O resultado foi uma dissertação clara, informativa e engajante sobre o impacto das IAs. O texto destaca como essas tecnologias aumentam eficiência e confiabilidade, mostrando que trabalhar com IA pode ser tanto fácil quanto prazeroso.
-- [Disertação](/Disertacao.txt)
-
 
 💭 Reflexão
 Criar com IA foi uma experiência divertida e surpreendentemente simples. O processo combinou eficiência com criatividade, provando que as IAs não apenas facilitam o trabalho, mas também garantem qualidade e confiabilidade em cada etapa.
 ```
+
+- [Disertação](/Disertacao.txt)
 
 ### Exemplos e Insigths
 
